@@ -1,4 +1,3 @@
-# wazuh-alert-reporter
 # Wazuh Automated Security Alert Reporter
 
 A Python script that connects to a Wazuh SIEM deployment, pulls real-time security alerts from the OpenSearch indexer, and generates a formatted HTML report — built as part of a home lab project to demonstrate security operations and automation skills.
