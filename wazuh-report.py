@@ -6,7 +6,7 @@ from datetime import datetime
 
 WAZUH_URL = "https://localhost:55000"
 USERNAME = "wazuh"
-PASSWORD = ".8KHG6ixXYuiJcI4+ajfAupDgl8Sj0Wk"
+PASSWORD = "YOUR WAZUH API PASSWORD HERE"
 
 def get_token():
 url = f"{WAZUH_URL}/security/user/authenticate"
